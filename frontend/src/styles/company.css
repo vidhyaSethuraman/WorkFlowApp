@@ -1,0 +1,20 @@
+
+.obj-desc-heading{
+    padding-right:100px !important;
+}
+
+ .add-obj-btn{
+   
+    position: relative;
+    top:10px;
+ }
+
+ .dlt-btn{
+     position: relative;
+     top:5x;
+ }
+
+ .dept-tag-co{
+     position: relative;
+     right:20px;
+ }

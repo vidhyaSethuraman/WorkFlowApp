@@ -1,0 +1,50 @@
+.side-bar-nav{
+    border:1px solid black;
+}
+
+.sidebar-nav-btn{
+    padding:0.5rem 1rem;
+    padding-left: 2.7rem;
+    background-color: transparent;
+    outline:none;
+    border:none;
+    display: block;
+    text-align: left;
+    margin:0;
+    width: 100%;
+    font-weight: bold;
+    
+}
+
+.sidebar-nav-btn:hover{
+    background-color: yellow;
+}
+
+.sidebar-nav-btn:focus{
+    font-size: bolder;
+    background-color: white;
+}
+
+.sidebar-heading{
+   
+    padding-left: 0.7rem;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.sidebar-heading i {
+    position: relative;
+    top:2px;
+}
+
+
+.side-bar-nav{
+    position: sticky;
+    top:0;
+    height: 722px;
+}
+
+
+.info-panel{
+    margin:1rem 4rem;
+}
