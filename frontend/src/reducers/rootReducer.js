@@ -51,9 +51,9 @@ function getDepartmentObjectives() {
 
 
 const initState = {
-    companyObjectives : getCompanyObjectives(),
-    deptObjectives: getDepartmentObjectives(),
-    employeeDetails :  getEmployeeDetails()
+    companyObjectives : [],
+    deptObjectives: [],
+    employeeDetails :  []
 }
 
 const rootReducer = (state =  initState , action) =>
